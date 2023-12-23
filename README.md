@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **fahmidafaiza57@gmail.com**
 
-<!-- - 🌐 Portfolio link **https://my-portfolio-jade-mu.vercel.app/** -->
+- 🌐 Portfolio link **https://my-portfolio-7f54d.web.app/**
 
 <h3 align="left">About me:</h3>
 <p>I am a Front End Developer. I use react, tailwind css, daisyui and firebase for my projects. </p>
